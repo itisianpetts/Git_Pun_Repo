@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 test
+=======
+>>>>>>> db692bae0f5c21be7e59c92fa5345e197ffacb49
 Changes
 Q: What kind of sports car does a cat drive? A: A Furrari.
 
